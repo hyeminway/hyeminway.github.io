@@ -3,33 +3,33 @@
 #
 
 # Name of your site (displayed in the header)
-name: Kiko Now
+name: Hyemin.log
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: 일본 생활중. 日本で生活中。
 
 #
 # Flags below are optional
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/aweekj/kiko-now/master/images/jekyll-logo.png
+avatar: # https://raw.githubusercontent.com/aweekj/kiko-now/master/images/jekyll-logo.png
 
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: Hyemin.log
+  - name: HOME
     url: /
-  - name: JEON HYEMIN
-    url: /about
-  - name: Archive
-    url: /archive
+  # - name: ABOUT
+  #   url: /about
+  # - name: Archive
+  #   url: /archive
   - name: Tags
     url: /tags
-  - name: Theme
-    url: https://github.com/AWEEKJ/kiko-now
+  # - name: Theme
+  #   url: https://github.com/AWEEKJ/kiko-now
 
 # Pagination
 paginate: 5
@@ -64,13 +64,13 @@ google_analytics: G-4V4FTJ1S2E
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://hyeminway.github.io/
+url: https://hyeminway.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: https://hyeminway.github.io/
+baseurl: # https://hyeminway.github.io
 
 #
 # !! You don't need to change any of the configuration flags below !!
